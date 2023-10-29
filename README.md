@@ -14,4 +14,4 @@ Assignment 3
  I'm in the process of combining the following two sketches to finalise my project which I would
  give the name “Melody Motion.” Additionally, I would consider having more functions, where the
  user could control and see how it would be if the amplitude gets higher or lower etc.
- Enjoy
+ Enjoy!
